@@ -2,7 +2,6 @@
 .ipynb_checkpoints/
 
 # Data files
-*.gpkg
 *.shp
 *.sqlite
 *.nc
